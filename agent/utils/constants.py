@@ -1,0 +1,6 @@
+INITIALIZE = "Initialize"
+CRAWL = "Crawl"
+SCRAP = "Scrap"
+FORMAT = "Format"
+SAVE = "Save"
+ERROR_HANDLER = "ErrorHandler"

@@ -1,0 +1,21 @@
+# FastAPI and server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# LangGraph and LangChain
+langgraph>=0.2.6
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=3.0.0
+langchain-openai>=0.1.0
+
+# Web scraping
+firecrawl>=0.1.0
+
+# Environment and utilities
+python-dotenv>=1.0.1
+
+# Optional but recommended for production
+python-multipart>=0.0.6  # For file uploads if needed later
+httpx>=0.25.0  # For async HTTP requests
