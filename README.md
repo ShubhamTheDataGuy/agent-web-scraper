@@ -7,6 +7,8 @@ An intelligent web scraping system built with LangGraph and FastAPI that autonom
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2.6+-orange.svg)](https://github.com/langchain-ai/langgraph)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 
+<img width="445" height="527" alt="image" src="https://github.com/user-attachments/assets/946e5b2b-3f4e-4864-96cb-73582164a39e" />
+
 ## 🌟 Features
 
 - **🔄 Agentic Workflow**: Built with LangGraph for intelligent state management and conditional routing
